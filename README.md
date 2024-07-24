@@ -1,10 +1,8 @@
-# Hi there 👋
-
-Thanks for visiting my profile! 
+### Hi there 👋, thanks for visiting my profile!  
 
 I use this github account to publish my projects. So far, I am interested in making web extensions for fun! However, I do make web applications with python Flask and the OG HTML/CSS/JS 😎. I also took a course on React Basics. And I am maintining my TryHackMe streak by learning Cyber Security 🛡️ skills everyday!
 
-## Badges
+#### Badges
 ![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/veenoise.png)
 
 <img src="https://images.credly.com/size/340x340/images/80845928-d1f8-4549-ae9d-27676fba897e/image.png" height="128"></img>
