@@ -1,6 +1,6 @@
 # Hi, I'm William Eduard Chua 👋
 
-**DevSecOps & Cloud Security Engineer** • Magna Cum Laude, BS Computer Science (PUP Manila)[cite: 1]
+**DevSecOps & Cloud Security Engineer** • Magna Cum Laude, BS Computer Science (PUP Manila)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/william-eduard-chua-785252200/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-williamchuaportfolio.eu.org-00C7B7?style=flat&logo=googlechrome&logoColor=white)](https://williamchuaportfolio.eu.org/)
