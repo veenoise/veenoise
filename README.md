@@ -14,7 +14,8 @@
 * **Open Source Contributions:**  
   [![Grafana Alloy](https://img.shields.io/badge/Grafana_Alloy-F46800?style=flat-square&logo=grafana&logoColor=white)](https://github.com/grafana/alloy/pulls?q=is%3Apr+author%3Aveenoise)
   [![Grafana Tempo](https://img.shields.io/badge/Grafana_Tempo-F46800?style=flat-square&logo=grafana&logoColor=white)](https://github.com/grafana/tempo/pulls?q=is%3Apr+author%3Aveenoise)
-  [![tldr-pages](https://img.shields.io/badge/tldr_pages-333333?style=flat-square&logo=github&logoColor=white)](https://github.com/tldr-pages/tldr/pulls?q=is%3Apr+author%3Aveenoise)
+  [![Traefik](https://img.shields.io/badge/Traefik-333333?style=flat-square&logo=github&logoColor=white)](https://github.com/traefik/traefik/pulls?q=is%3Apr+author%3Aveenoise)
+  [![tldr-pages](https://img.shields.io/badge/tldr_pages-333333?style=flat-square&logo=github&logoColor=white)](https://github.com/grafana/alloy/pulls?q=is%3Apr+author%3Aveenoise)
 
 ---
 
