@@ -49,7 +49,10 @@
 
 ### 📜 Certifications
 
-`AWS Certified Cloud Practitioner` • `GitHub Foundations` • `Certified AppSec Practitioner` • `Google Cybersecurity`[cite: 1]
+![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![GitHub Foundations](https://img.shields.io/badge/GitHub-Foundations-181717?style=flat-square&logo=github&logoColor=white)
+![Certified AppSec Practitioner](https://img.shields.io/badge/The_SecOps_Group-Certified_AppSec_Practitioner-00599C?style=flat-square&logo=securityscorecard&logoColor=white)
+![Google Cybersecurity](https://img.shields.io/badge/Google-Cybersecurity_Certificate-4285F4?style=flat-square&logo=google&logoColor=white)
 
 ---
 
